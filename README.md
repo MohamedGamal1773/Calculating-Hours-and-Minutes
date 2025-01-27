@@ -4,7 +4,7 @@ How It Works
 1. The user inputs the total number of minutes.
 2. The program calculates: - The number of *hours* by performing floor division (// 60). - The remaining *minutes* using the modulus operation (% 60).
 3. The program outputs the total time in hours and minutes format.
-4. ## Example ### Input: ``` Please Type the Number Of Minutes: 130 
+4. Example: Input: ``` Please Type the Number Of Minutes: 130 
 Output: This Course is: 2 Hours and 10 Minutes Long
 Code:
 Total_Minutes = input('Please Type the Number Of Minutes: \n')
